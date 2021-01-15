@@ -1,0 +1,7 @@
+.poke-container {
+    background-image: url('./poke-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.7;
+}
